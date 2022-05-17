@@ -1,5 +1,5 @@
 /*
-* \file   RAII.hpp
+* \file   Rook.hpp
 * \author Nada Alami Chentoufi 
 * \date   25 april 2022
 */
