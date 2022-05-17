@@ -1,2 +1,2 @@
 #ChessGame
-UI developped using Qt & C++
+UI developed using Qt & C++
